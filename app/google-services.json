@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883190792359",
+    "project_id": "proyecto-firebase-4b518",
+    "storage_bucket": "proyecto-firebase-4b518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883190792359:android:c534ca0d42029a98765b82",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrg2z7ie8GL35lAm4rOveN-dHPHFA_Y88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
